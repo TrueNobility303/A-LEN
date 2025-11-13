@@ -1,5 +1,5 @@
-# High Order Acceleration in Minimax Optimization
 
+![](Minimax.jpg)
 
 ## Breaking News
 
